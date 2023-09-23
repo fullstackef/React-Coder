@@ -1,0 +1,16 @@
+.input_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.label_form{
+    width: 30%;
+}
+
+.input_form{
+    border: none;
+    border-bottom: solid 1px black;
+    border-radius: 0;
+}

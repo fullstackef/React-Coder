@@ -1,0 +1,70 @@
+.checkout_body {
+    padding: 2rem;
+}
+
+.checkout_title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.checkout_list {
+    padding: 1rem;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.checkout_items {
+    display: flex;
+    font-size: 1rem;
+    justify-content: space-around;
+}
+
+.checkout_total {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.form_title {
+    text-align: center;
+    padding: 2rem;
+}
+
+.checkout_form {
+    margin: auto;
+    width: 60%;
+    padding: 2rem;
+    border: 1px solid #00000079;
+    border-radius: 0;
+}
+
+.form_button {
+    padding: 1rem;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.checkout_empty_cart {
+    font-weight: bold;
+    padding: 5rem;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.checkout_congrats {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+    padding: 2rem;
+}
+
+.checkout_order {
+    color: crimson;
+    font-weight: bold;
+    font-size: 3rem;
+}

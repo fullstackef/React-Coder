@@ -1,0 +1,31 @@
+.cart_body {
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.cart_total {
+    padding: 2rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.cart_buttons {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 10%;
+    padding: 2rem;
+}
+
+.empty_cart_title {
+    font-weight: bold;
+    padding: 5rem;
+}
+
+.cart_item{
+    width: 90%;
+}
